@@ -1,5 +1,14 @@
-### :monkey: Hi there 👋
+### Hi <s>there</s>   :monkey: 
 
+<!-- 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -48,8 +57,6 @@ First Header | Second Header
 ------------ | -------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
-
-<!--  
   
 **SantiagoPagnone/SantiagoPagnone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
