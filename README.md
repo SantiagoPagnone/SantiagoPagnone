@@ -1,6 +1,8 @@
 ### Hi <s>there</s>   :monkey: 
 
 <!-- 
+<img align="right" src="https://media.giphy.com/media/l4FGmO3MZkGng9Bp6/giphy.gif"/>
+Cancel changes
 ```diff
 - text in red
 + text in green
@@ -18,7 +20,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-
 
 *This text will be italic*
 _This will also be italic_
