@@ -1,5 +1,5 @@
 ### Hi <s>there</s>   :monkey: 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santiagopagnone&count_private=true&show_icons=true&theme=dracula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santiagopagnone&count_private=true&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 <img align="right" src="https://media.giphy.com/media/l4FGmO3MZkGng9Bp6/giphy.gif"/>
 Cancel changes
